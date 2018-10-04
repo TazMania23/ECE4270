@@ -322,43 +322,43 @@ void handle_pipeline()
 }
 
 /************************************************************/
-/* writeback (WB) pipeline stage:                                                                          */ 
+/* writeback (WB) pipeline stage: todo                                                                         */ 
 /************************************************************/
 void WB()
 {
-	/*IMPLEMENT THIS*/
+	
 }
 
 /************************************************************/
-/* memory access (MEM) pipeline stage:                                                          */ 
+/* memory access (MEM) pipeline stage: todo                                                         */ 
 /************************************************************/
 void MEM()
 {
-	/*IMPLEMENT THIS*/
+	
 }
 
 /************************************************************/
-/* execution (EX) pipeline stage:                                                                          */ 
+/* execution (EX) pipeline stage: todo                                                                         */ 
 /************************************************************/
 void EX()
 {
-	/*IMPLEMENT THIS*/
+	
 }
 
 /************************************************************/
-/* instruction decode (ID) pipeline stage:                                                         */ 
+/* instruction decode (ID) pipeline stage: todo                                                         */ 
 /************************************************************/
 void ID()
 {
-	/*IMPLEMENT THIS*/
+	
 }
 
 /************************************************************/
-/* instruction fetch (IF) pipeline stage:                                                              */ 
+/* instruction fetch (IF) pipeline stage: todo                                                             */ 
 /************************************************************/
 void IF()
 {
-	/*IMPLEMENT THIS*/
+	
 }
 
 
